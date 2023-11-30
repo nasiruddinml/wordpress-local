@@ -1,0 +1,6 @@
+.env
+.DS_Store
+wp-config.php
+database
+wordpress
+nginx/log
